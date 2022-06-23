@@ -19,7 +19,7 @@ def image_to_sound(path_to_image):
         print("The bug thrown while excuting the code\n", bug)
         return
 
-//select main _1_
+//select main _1___
 if __name__ == "__main__":
     image_to_sound("image.jpg")
     input()
