@@ -9,7 +9,7 @@ This repo will help you get started on how you can get started with Optical char
 
 
 Getting started 
-----------------------
+-----------------------
 In order to use this code, firstly clone the repo using **git** or download the zip file manually
 
 ```bash
@@ -32,7 +32,7 @@ on your machine, you can just use *pip* command to this.
 
 
 How to run 
-------------
+-------------
 By default the script will load an image with name **image.jpg** from its current directory
 to change it adjust the it to be the your new image name.
 
