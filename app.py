@@ -4,7 +4,7 @@ from pytesseract import image_to_string
 
 
 def image_to_sound(path_to_image):
-    """
+    ""
     Function for converting an  image to sound
     """
     try:
