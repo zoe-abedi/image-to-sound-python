@@ -19,7 +19,7 @@ $ image-to-sound-python--> python app.py
 ```
 
 Dependancies 
-----------------
+-----------------
 In order to run this code you're supposed to have **pytesseract** and **google text to sound** libary installed
 on your machine, you can just use *pip* command to this.
 
