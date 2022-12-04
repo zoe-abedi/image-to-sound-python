@@ -1,4 +1,4 @@
-from PIL import Images
+from PIL import Image
 from gtts import gTTS
 from pytesseract import image_to_string
 
