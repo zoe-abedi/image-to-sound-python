@@ -22,4 +22,4 @@ def image_to_sound(path_to_image):
 //select main _1____1_
 if __name__ == "__main__":
     image_to_sound("image.jpg")
-    input()
+    input(
