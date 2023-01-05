@@ -1,4 +1,4 @@
-Look  imageto-sound-python
+Look  imageto-sound-pytho
 
 Intro
 --------
