@@ -31,7 +31,7 @@ on your machine, you can just use *pip* command to this.
 
 
 How to run 
-------------
+-----------
 By default the script will load an image with name **image.jpg** from its current directory
 to change it adjust the it to be the your new image name.
 
