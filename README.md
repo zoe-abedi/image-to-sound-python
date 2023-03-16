@@ -8,7 +8,7 @@ This repo will help you get started on how you can get started with Optical char
 
 
 Getting started 
--------
+------
 In order to use this code, firstly clone the repo using **git** or download the zip file manually
 
 ```bash
